@@ -1,0 +1,24 @@
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+}
+.friends__icon i {
+  margin: 10px 20px 10px 20px;
+  color: grey;
+}
+.friends__icon {
+  display: flex;
+  justify-content: space-between;
+}
+.friends__header {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 10px;
+}
+.friends__info {
+  display: flex;
+  justify-content: center;
+}
+.friends__info div {
+  margin: 0px 10px;
+}

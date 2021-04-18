@@ -4,6 +4,7 @@
 
 /*Components*/
 @import "components/status-bar.css";
+@import "components/frinds.css";
 
 /* screens */
 @import "screens/welcome-header.css";
