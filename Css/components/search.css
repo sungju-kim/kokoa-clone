@@ -6,7 +6,7 @@
 .search__column__title,
 .search__column__title__text {
   display: flex;
-  margin: 0px 20px;
+  margin: 0px 10px;
 }
 
 .search__column__notice {
@@ -14,4 +14,58 @@
   justify-content: center;
   align-items: center;
   margin: 120px 0px;
+}
+.column__right__img {
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+}
+
+.search__contents {
+  display: flex;
+  flex-direction: column;
+}
+
+.search__contents__column,
+.contents__members {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px;
+}
+.members__content,
+.contents__column__title {
+  color: grey;
+  font-size: 13px;
+}
+.search__contents__column {
+  margin: 10px 20px;
+}
+.contents__column__title {
+  margin: 5px 0px;
+}
+.contents__members :last-child {
+  color: hotpink;
+  border-left: 1px solid grey;
+  padding-left: 5px;
+}
+.contents__members :nth-child(2) {
+  margin: 0px 5px;
+}
+.members__img {
+  width: 15px;
+  height: 15px;
+}
+.likes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 20px;
+  position: relative;
+  bottom: 25%;
+  left: 25%;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.446);
+  border-radius: 20px;
+  font-size: 11px;
 }
