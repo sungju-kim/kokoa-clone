@@ -1,0 +1,17 @@
+.search__column {
+}
+.search__column__title {
+  justify-content: space-between;
+}
+.search__column__title,
+.search__column__title__text {
+  display: flex;
+  margin: 0px 20px;
+}
+
+.search__column__notice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 120px 0px;
+}

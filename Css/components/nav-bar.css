@@ -1,0 +1,29 @@
+.nav__link {
+  color: inherit;
+}
+.nav__ul {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  padding: 20px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  border-top: 1px solid grey;
+  background-color: #f6f5f5;
+}
+.nav__notification {
+  background-color: tomato;
+  width: 20px;
+  height: 20px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  position: absolute;
+  left: 35%;
+  bottom: 50%;
+  font-size: 12px;
+}

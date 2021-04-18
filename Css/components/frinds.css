@@ -18,7 +18,23 @@ h1 {
 .friends__info {
   display: flex;
   justify-content: center;
+  background-color: #f6f5f5;
+  padding: 20px;
 }
 .friends__info div {
   margin: 0px 10px;
+}
+
+.friends__channel {
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  color: grey;
+  margin: 30px 20px;
+}
+
+.friends__channel-column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
