@@ -1,19 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
-@import "/Css/reset.css";
-@import "/Css/variables.css";
+@import "Css/reset.css";
+@import "Css/variables.css";
 
 /*Components*/
-@import "/Css/components/status-bar.css";
-@import "/Css/components/friends.css";
-@import "/Css/components/user-component.css";
-@import "/Css/components/badge.css";
-@import "/Css/components/nav-bar.css";
-@import "/Css/components/items.css";
-@import "/Css/components/search.css";
+@import "Css/components/status-bar.css";
+@import "Css/components/friends.css";
+@import "Css/components/user-component.css";
+@import "Css/components/badge.css";
+@import "Css/components/nav-bar.css";
+@import "Css/components/items.css";
+@import "Css/components/search.css";
 
 /* screens */
-@import "/Css/screens/loginform.css";
-@import "/Css/screens/welcome-header.css";
+@import "Css/screens/loginform.css";
+@import "Css/screens/welcome-header.css";
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
