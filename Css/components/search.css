@@ -6,9 +6,8 @@
 .search__column__title,
 .search__column__title__text {
   display: flex;
-  margin: 0px 10px;
+  margin: 10px 10px;
 }
-
 .search__column__notice {
   display: flex;
   justify-content: center;

@@ -10,3 +10,17 @@
   color: white;
   font-weight: 600;
 }
+.dot {
+  box-sizing: border-box;
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 100px;
+  position: relative;
+  right: 10%;
+}
+.more-notification {
+  position: fixed;
+  right: 3%;
+  bottom: 4%;
+}
