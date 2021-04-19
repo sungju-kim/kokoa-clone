@@ -10,6 +10,7 @@
 @import "Css/components/nav-bar.css";
 @import "Css/components/items.css";
 @import "Css/components/search.css";
+@import "Css/components/alt-screen-header.css";
 
 /* screens */
 @import "Css/screens/loginform.css";
