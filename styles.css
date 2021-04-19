@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
-@import "reset.css";
-@import "variables.css";
+@import "Css/reset.css";
+@import "Css/variables.css";
 
 /*Components*/
-@import "components/status-bar.css";
-@import "components/frinds.css";
-@import "components/user-component.css";
-@import "components/badge.css";
-@import "components/nav-bar.css";
-@import "components/items.css";
-@import "components/search.css";
+@import "Css/components/status-bar.css";
+@import "Css/components/frinds.css";
+@import "Css/components/user-component.css";
+@import "Css/components/badge.css";
+@import "Css/components/nav-bar.css";
+@import "Css/components/items.css";
+@import "Css/components/search.css";
 
 /* screens */
 @import "screens/welcome-header.css";
